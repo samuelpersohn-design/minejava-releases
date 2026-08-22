@@ -1,0 +1,2 @@
+# Version courante du launcher : version | url_du_jar
+TEST | https://github.com/samuelpersohn-design/minejava-releases/releases/download/TEST/minejava-launcher-TEST.jar
