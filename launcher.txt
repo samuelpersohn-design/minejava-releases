@@ -1,2 +1,2 @@
 # Version courante du launcher : version | url_du_jar
-0.1 | https://github.com/samuelpersohn-design/minejava-releases/releases/download/0.1/minejava-launcher-0.1.jar
+0.3 | https://github.com/samuelpersohn-design/minejava-releases/releases/download/0.3/minejava-launcher-0.3.jar
