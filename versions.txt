@@ -1,4 +1,5 @@
 # Manifeste MineJava — une version par ligne, la plus récente en premier
 #   id | url_du_jar | date | notes
+0.2beta | https://github.com/samuelpersohn-design/minejava-releases/releases/download/0.2beta/minejava-0.2beta-all.jar | 2026-08-23 | RELEASE BETA
 0.3 | https://github.com/samuelpersohn-design/minejava-releases/releases/download/0.3/minejava-0.3-all.jar | 2026-08-23 | MineJava 0.3
 0.1 | https://github.com/samuelpersohn-design/minejava-releases/releases/download/0.1/minejava-0.1-all.jar | 2026-08-23 | MineJava 0.1
