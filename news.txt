@@ -1,2 +1,9 @@
 # Actualités MineJava — un bloc par article, séparés par ---
 
+titre: The Name Of The First Release !!: The Adventure Starts
+tag: Mise à jour
+date: 2026-09-12
+couleur: 4c9c33
+
+---
+
